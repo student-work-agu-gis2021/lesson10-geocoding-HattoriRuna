@@ -142,5 +142,7 @@ for key, group in grouped:
 # - What was difficult?
 
 # YOUR ANSWER HERE
+# I think the difficulty level of this task is 5. 
+# In particular, I found it difficult to discuss the spatial coupling of YOUR CODE HERE 9.
 
 # Well done!
